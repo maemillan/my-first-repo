@@ -1,3 +1,0 @@
-este es un ejercicio de branching
-esta es una segunda linea
-esta linea es para crear un conflicto
